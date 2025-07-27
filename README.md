@@ -81,7 +81,7 @@ Error Handling Test	Partial Pass	Basic syntax errors handled; detailed error mes
 Cross-platform Compatibility	Pass	Project builds and runs successfully on Windows tested environment
 
 Codebase Information
-(Add repository URL, branch details, and important commits here.)
+https://github.com/NikitaaBhatt/VibeScript-and-VibeBuilder-
 
 Contact and Support
 For questions or contributions, please contact the project team through the project repository.
