@@ -1,0 +1,11 @@
+plot int main() {
+    vibe string y="hii";
+    vibe int x=5;
+    vibe int z=6;
+    spill x+z;
+    spill y;
+    yah x <= 5 {
+        spill "x is less than 5";
+    }
+    drop 0;
+}
